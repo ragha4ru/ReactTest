@@ -3,7 +3,7 @@ import React from 'react';
 const ExampleFunc1 = () => {
   return (
     <div>
-      <h1>Array frunction component </h1>
+      <h1>Array frunction components </h1>
     </div>
   );
 };
